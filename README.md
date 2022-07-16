@@ -1,2 +1,5 @@
-# Tic-Tac-Toe
-Creating game Tic-Tac-Toe using HTML CSS and JavaScript.
+# <p align="center">Tic-Tac-Toe</p>
+
+### This game is built using HTML, CSS & JavaScript
+
+<img src="Tic-Tac-Toe.png">
